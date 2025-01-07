@@ -1,2 +1,2 @@
 # Java-basics
-My journey of learning Java
+My journey of learning JavaScript.
